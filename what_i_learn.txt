@@ -1,0 +1,7 @@
+use variables.
+
+line height in the body so all items can have equal space.
+
+margin block es el margin top y el bottom.
+
+margin-inline : es el margin de izquierda a derecha
