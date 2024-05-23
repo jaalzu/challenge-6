@@ -9,7 +9,7 @@
 
     --color-dark-gray:hsl(234, 12%, 34%);
     --color-gray-light:hsl(229, 6%, 66%);
-    --color-white:hsl(0, 0%, 98%);
+    --color-white:hsl(0, 0%, 97.5%);
 
     --ff-primary:"Poppins", sans-serif;
     
@@ -17,8 +17,8 @@
     --fw-normal:400;
     --fw-bold:600;
 
-    --fs-small-:0.937rem;
-    --fs-mid-:1.50rem;
+    --fs-small-:0.907rem;
+    --fs-mid-:1.30rem;
     --fs-mid-large:2.3rem;
     --fs-big-:2.5rem;  
 
@@ -33,7 +33,7 @@
 }
 
 body{
-    background-color: var(--color-dark-light);
+    background-color: var(--color-white);
     font-family: var(--ff-primary);
     line-height: 1.7;
 }
@@ -44,7 +44,7 @@ body{
 }
 
 .title span{
-    color: var(--color-gray-light);
+    color: rgb(130, 130, 130);
     font-size: var(--fs-mid-large);
     font-weight: var(--fw-light);
 }
@@ -65,7 +65,7 @@ body{
 }
 
 .container{
-    max-width: 1140px;
+    max-width: 1180px;
     margin-inline: auto;
     
     
